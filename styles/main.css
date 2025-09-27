@@ -1,4 +1,4 @@
-nav-list{
+nav ul {
     display: flex;
     flex-direction: row;
     justify-content: center;
