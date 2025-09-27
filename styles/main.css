@@ -25,11 +25,6 @@ img {
     display:block;
 }
 
-@media print, screen and (min-width: 600px) {
-    nav {
-        display: none;
-    }
-}
 
 @media screen and (min-width: 600px) {
     body {
