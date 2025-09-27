@@ -5,8 +5,12 @@ nav ul {
     margin: 0;
     padding: 15px;
     text-align: left;
+    color:blue
 }
 
+nav ul li a:hover {
+    color:aqua
+}
 
 body {
     display: grid;
@@ -35,10 +39,6 @@ img {
         padding: 0;
         text-align: left;
     } 
-}
-
-.nav ul li a:hover {
-    color: rgb(0, 17, 255);
 }
 
 @media screen and (min-width: 1024px) {
