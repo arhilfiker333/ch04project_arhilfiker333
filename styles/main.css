@@ -3,7 +3,7 @@ nav ul {
     flex-direction: row;
     gap: 20px;
     margin: 0;
-    padding: 0;
+    padding: 20px;
     text-align: left;
 }
 
