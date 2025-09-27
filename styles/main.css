@@ -26,9 +26,10 @@ img {
 }
 
 
+
 @media screen and (min-width: 600px) {
     header {
-        background-color: rgb(80, 118, 143);
+        background-color: rgb(157, 203, 233);
         text-align: center;
     }
 
@@ -39,7 +40,7 @@ img {
 
     footer {
         font-size: 0.9rem;
-        background-color: rgb(144, 188, 255)
+        background-color: rgb(157, 203, 233)
     }
 
     body {
@@ -55,6 +56,10 @@ img {
         padding: 0;
         text-align: left;
     } 
+    img {
+        width:75%;
+        height:auto;
+    }
 }
 
 @media screen and (min-width: 1024px) {
@@ -72,6 +77,10 @@ img {
         text-align: left;
         margin-left: auto;
         }
+        img {
+        width:100%;
+        height:auto;
+    }
 }
 
 .image-flex {
