@@ -28,7 +28,7 @@ img {
 
 @media screen and (min-width: 600px) {
     header {
-        background-color: rgba(211, 211, 211, 0.527);
+        background-color: rgb(80, 118, 143);
         text-align: center;
     }
 
@@ -39,7 +39,7 @@ img {
 
     footer {
         font-size: 0.9rem;
-        background-color: rgba(211, 211, 211, 0.185)
+        background-color: rgb(144, 188, 255)
     }
 
     body {
